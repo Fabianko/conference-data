@@ -536,19 +536,6 @@
     "twitter": "@JS_Days"
   },
   {
-    "name": "JSConf Chile",
-    "url": "https://www.jsconf.cl",
-    "startDate": "2025-10-24",
-    "endDate": "2025-10-25",
-    "city": "Santiago",
-    "country": "Chile",
-    "online": false,
-    "locales": "EN,ES",
-    "cocUrl": "https://github.com/JSConfCL/code_of_conduct/blob/main/README_EN.md",
-    "cfpUrl": "https://tally.so/r/me9dNx",
-    "twitter": "@jsconfcl"
-  },
-  {
     "name": "JS Conf Armenia",
     "url": "https://jsconf.am",
     "startDate": "2025-10-25",
